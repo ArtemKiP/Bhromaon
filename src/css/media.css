@@ -1,0 +1,285 @@
+@media (max-width:1024px ) {
+    .bhromaon{
+        padding: 170px 0 150px;
+    }
+    .bhromaon-title{
+        font-size: 39px;
+    }
+    .bhromaon-subtitle{
+        font-size: 20px;
+    }
+    .bhromaon-search{
+        width: 572px;
+        height: 53px;
+    }
+    .choose-img2{
+        left: 4px;
+    }
+    .select-text{
+        font-size: 29px;
+    }
+    .select-card-line{
+        height: 91px;
+    }
+}
+
+@media (max-width: 992px) {
+
+    .header-title{
+        font-size: 21px;
+    }
+    .header-link{
+        font-size: 12px;
+    }
+    .choose{
+        padding: 100px 0 100px;
+    }
+    .choose-card-title{
+        font-size: 30px;
+    }
+    .choose-card-text{
+        font-size: 14px;
+    }
+    .choose-img2, .choose-img{
+        width: 95%;
+    }
+    .select-text {
+        font-size: 16px;
+    }
+    .select-card-line {
+        height: 85px;
+    }
+    .icon-card{
+        font-size: 31px;
+    }
+    .spain{
+        height: 550px;
+    }
+    .spain-card{
+        margin: 96px 0 99px;
+        width: 473px;
+        padding: 49px 18px 50px 17px;
+    }
+    .spain-card-title{
+        font-size: 18px;
+    }
+    .spain-card-subtitle{
+        font-size: 19px;
+        margin: 19px 0 0;
+    }
+    .spain-card-text{
+        font-size: 15px;
+        margin: 13px 0 33px;
+    }
+    .spain-btn{
+        font-size: 14px;
+        padding: 17px 55px 17px;
+    }
+    .sam{
+        padding: 87px 0 100px;
+    }
+    .sam-title{
+        font-size: 30px;
+        margin-bottom: 75px;
+    }
+    .sam-img{
+        width: 357px;
+        height: 340px;
+    }
+    .sam-card-text{
+        line-height: 22px;
+    }
+    .footer{
+        padding: 100px 0 46px;
+    }
+    .footer-title{
+        font-size: 21px;
+    }
+    .footer-subtitle{
+        font-size: 15px;
+    }
+.footer-icon{
+    font-size: 14px;
+}
+
+}
+
+@media (max-width: 767px) {
+.bhromaon-search{
+    width: 515px;
+}
+    .select-card-line {
+        height: 128px;
+        width: 406px;
+    }
+    .header-title {
+        font-size: 14px;
+    }
+    .header-link {
+        font-size: 10px;
+    }
+    .choose-card-title {
+        font-size: 25px;
+    }
+    .choose-card-text {
+        font-size: 12px;
+    }
+    .choose-card-btn{
+        font-size: 9px;
+        padding: 13px 24px 13px;
+    }
+    .spain-card {
+        margin: 37px 0 38px;
+        width: 307px;
+        padding: 38px 18px 34px 17px;
+    }
+    .spain-card-subtitle {
+        font-size: 17px;
+        margin: 19px 0 0;
+    }
+    .spain-card-text{
+        font-size: 12px;
+    }
+    .spain-btn {
+        font-size: 11px;
+        padding: 14px 31px 14px;
+    }
+    .sam-card-text{
+        font-size: 12px;
+    }
+    .sam-card {
+        padding: 22px 25px 12px 11px;
+    }
+    .sam-img {
+        width: 277px;
+        height: 244px;
+    }
+}
+
+@media (max-width: 576px) {
+    .bhromaon-search {
+        width: 394px;
+    }
+    .header{
+        padding: 21px 0 20px;
+    }
+    .header-link {
+        font-size: 8px;
+    }
+    .header-links{
+        column-gap: 8px;
+    }
+    .header-title {
+        font-size: 12px;
+    }
+    .choose-cards{
+        flex-direction: column;
+        display: flex;
+    }
+    .choose-img2, .choose-img {
+        width: 78%;
+    }
+    .choose-card{
+        margin-bottom: 20px;
+    }
+    .choose-img{
+        right: -4px;
+    }
+    .select-card-line {
+        height: 138px;
+        width: 283px;
+    }
+    .select{
+        padding: 101px 0 36px;
+    }
+.sam-cards{
+    flex-direction: column;
+}
+    .spain {
+        height: 460px;
+    }
+    .sam-img {
+        width: 100%;
+        height: 99%;
+    }
+}
+
+@media (max-width: 425px) {
+    .bhromaon-search {
+        width: 330px;
+    }
+    .bhromaon-input{
+        font-size: 10px;
+    }
+    .bhromaon-search-btn{
+        font-size: 11px;
+        padding: 9px 13px 6px;
+    }
+    .header-link {
+        font-size: 7px;
+    }
+    .header-title {
+        font-size: 10px;
+    }
+    .bhromaon {
+        padding: 149px 0 120px;
+    }
+    .choose-card-title {
+        font-size: 22px;
+    }
+    .select-card-line {
+        height: 149px;
+        width: 221px;
+    }
+
+}
+
+@media (max-width: 375px) {
+    .bhromaon-search {
+        width: 284px;
+        height: 41px;
+    }
+    .bhromaon-input {
+        font-size: 9px;
+    }
+    .bhromaon-title {
+        font-size: 33px;
+    }
+    .bhromaon-subtitle {
+        font-size: 13px;
+    }
+    .header-title {
+        font-size: 9px;
+    }
+    .header-link {
+        font-size: 6px;
+    }
+    .choose {
+        padding: 91px 0 70px;
+    }
+    .choose-card{
+        width: 100%;
+    }
+    .choose-card-text {
+        font-size: 10px;
+        margin-bottom: 29px;
+    }
+    .choose-card-title {
+        font-size: 19px;
+        margin-bottom: 27px;
+    }
+    .select-text {
+        font-size: 12px;
+    }
+    .select-card-line {
+        height: 149px;
+        width: 201px;
+    }
+    .spain-card{
+        right: 20px;
+        width: 279px;
+    }
+    .sam-title{
+        font-size: 25px;
+    }
+}
